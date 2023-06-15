@@ -1,4 +1,4 @@
-import { isEmail} from "./isEmail";
+import {isEmail} from "./isEmail";
 
 it('should return true when valid email', () => {
     const email = 'b@b.com';

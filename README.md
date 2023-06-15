@@ -1,2 +1,3 @@
-# testing-react-apps-with-jest-and-react-testing-library
-My personal exercise of "Testing React Apps with Jest and React Testing Library" Educative Course
+# Testing React Apps with Jest and React Testing Library
+
+My personal exercise of ["Testing React Apps with Jest and React Testing Library"](https://www.educative.io/courses/testing-react-apps-jest-react-testing-library) Educative Course.
